@@ -1,0 +1,6 @@
+{
+  "name": "Consulta CNPJ BrasilAPI",
+  "description": "Consulte dados cadastrais completos de empresas brasileiras em tempo real através da BrasilAPI pelo CNPJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
